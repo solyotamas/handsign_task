@@ -1,6 +1,7 @@
 # Folders to ignore
 asl-signs/
-dataset/
+dataset/*
+!dataset/train_clean_50_threshhold.csv
 
 # Python
 __pycache__/
