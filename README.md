@@ -14,7 +14,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-2) Place the original dataset *asl-signs folder* inside the root folder
+2) Place the original dataset *asl-signs folder itself (with the contents inside)* inside the root folder
 3) Run the preprocessing scripts inside **preprocess_before.ipynb** Under the header 
 "**2nd attempt 25 signs and all of their sequences**" 
 4) Run the main pipeline
