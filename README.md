@@ -21,7 +21,9 @@ OR
 3) Run the preprocessing scripts inside **preprocess_before.ipynb** Under the header 
 "**2nd attempt 25 signs and all of their sequences**" 
 
-4) Run the main pipeline
+
+**Run the main pipeline**
+
 The main pipeline is inside **train_eval_pipeline.ipynb** 
 notebook with runnable cells
 
