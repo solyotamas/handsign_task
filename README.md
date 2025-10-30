@@ -19,6 +19,9 @@ pip install -r requirements.txt
 "**2nd attempt 25 signs and all of their sequences**" 
 4) Run the main pipeline
 
+*preprocessing takes around 1 hour and training takes about 10 minutes on single cpu*
+
+
 The main pipeline is inside **train_eval_pipeline.ipynb** 
 notebook with runnable cells
 
