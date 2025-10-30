@@ -1,0 +1,28 @@
+# Folders to ignore
+asl-signs/
+dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Logs
+*.log
+
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
+~*
