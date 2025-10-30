@@ -2,10 +2,15 @@
 ---
 All of the requirements for the project is inside **requirements.txt**. For the code to run properly, pip install them beforehand in a python venv
 
-1)
+0) Clone the repository
 ```
-python -m venv venv
-... venv\Scripts\Activate.ps1
+git clone https://github.com/solyotamas/handsign_task.git
+cd handsign_task
+```
+1) Create a python venv and install requirements
+```
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 2) Place the dataset folder inside the root folder
@@ -16,7 +21,7 @@ OR
 3) Run the preprocessing scripts inside **preprocess_before.ipynb** Under the header 
 "**2nd attempt 25 signs and all of their sequences**" 
 
-
+4) Run the main pipeline
 The main pipeline is inside **train_eval_pipeline.ipynb** 
 notebook with runnable cells
 
